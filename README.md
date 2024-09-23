@@ -11,6 +11,14 @@
         <a href="https://github.com/88JC/" target="_blank">
             <img src="https://komarev.com/ghpvc/?username=88JC&label=Profile%20views&style=flat-square" alt="Profile views"/>
         </a>
+      </p>
+    <p align="center">
+        <a href="https://discord.com/invite/CDD223E3W3" target="_blank">
+            <img src="https://badgen.net/discord/members/CDD223E3W3?style=for-the-badge">
+       </a>
+        <a href="https://discord.com/invite/JVhKwNGmKF" target="_blank">
+            <img src="https://badgen.net/discord/members/JVhKwNGmKF?style=for-the-badge">
+       </a>
     </p>
     <div align="center">
         <br>
