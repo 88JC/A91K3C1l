@@ -4,7 +4,7 @@
     <h1 align="center">
         <a href="https://github.com/88JC/" target="_blank">
             <img src="https://github.com/jeckydo/jeckydo/blob/main/Assets/Name.svg" width="600px" alt="JC Name">
-            <img src="https://readme-typing-svg.demolab.com/?lines=%20This%20is%20JC....;%20Nice%20to%20meet%20you;;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" alt="Typing Animation" />
+            <img src="https://readme-typing-svg.demolab.com/?lines=%20This%20is%20JC....;%20Nice%20to%20meet%20you;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" alt="Typing Animation" />
         </a>
     </h1>
     <p align="center">
