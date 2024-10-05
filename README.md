@@ -21,6 +21,8 @@
                     <a href="https://discord.com/invite/CDD223E3W3" target="_blank">
                         <img width="350px" src="https://api.weblutions.com/discord/invite/CDD223E3W3">
                    </a>
+                    </td>
+                    <td align="center" width="50%">
                     <a href="https://discord.com/invite/JVhKwNGmKF" target="_blank">
                         <img width="350px" src="https://api.weblutions.com/discord/invite/JVhKwNGmKF">
                    </a>
