@@ -3,7 +3,7 @@
 <body>
     <h1 align="center">
         <a href="https://github.com/88JC/" target="_blank">
-            <img src="https://readme-typing-svg.herokuapp.com?color=%f75c7e&size=40&center=true&width=600&height=69&lines=👋+Hi+there!+😎;✋+Welcome+To+My+Profile+😇" alt="Typing SVG">
+            <img src="https://readme-typing-svg.herokuapp.com?color=%f75c7e&size=40&center=true&width=600&height=69&lines=👋+Hi+there!+😎;✋+Welcome+To+My+Profile+😇;" alt="Typing SVG">
             <img src="https://www.jecky.id/88JC.png/" alt="image" />
         </a>
     </h1>
@@ -50,8 +50,8 @@
             <tr>
                 <h1>Profile Stats<img src="https://github.com/jeckydo/jeckydo/blob/main/Assets/Developer.gif?raw=true" style="width: 40px; height: 40px;"></h1>
                 <td align="center" width="50%">
-                    <a href="https://discord.com/users/334307216926703616" target="_blank">
-                        <img width="100%" src="https://lanyard-profile-readme.vercel.app/api/169711695932030976" alt="Profile Image"/>
+                    <a href="https://discord.com/users/169711695932030976" target="_blank">
+                        <img width="100%" src="https://lanyard.kyrie25.me/api/169711695932030976?decoration=true&useDisplayName=false&animationDuration=2s&waveColor=202225&imgStyle=square&imgBorderRadius=16px&bg=202225&idleMessage=Five+So+Be%C5%9F+So+Me" alt="Profile Image"/>
                     </a>
                     <a href="https://github.com/88JC" target="_blank">
                         <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=88JC&theme=dark&background=202225&border_color=202225&hide_border=true&stroke=202225" alt="GitHub Streak Stats"/>
