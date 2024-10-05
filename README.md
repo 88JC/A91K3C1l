@@ -12,17 +12,17 @@
         <table>
             <tr>
                 <h1>Activity <img src="https://github.com/jeckydo/jeckydo/blob/main/Assets/Earth.gif?raw=true" style="width: 25px; height: 25px;"></h1>
-                <td align="center" width="50%">
-                  <p align="center">
+                <p align="center">
                     <a href="https://github.com/88JC/" target="_blank">
                         <img src="https://komarev.com/ghpvc/?username=88JC&label=Profile%20views&style=flat-square" alt="Profile views"/>
                     </a>
                   </p>
+                    <td align="center" width="50%">
                     <a href="https://discord.com/invite/CDD223E3W3" target="_blank">
-                        <img src="https://api.weblutions.com/discord/invite/CDD223E3W3">
+                        <img width="350px" src="https://api.weblutions.com/discord/invite/CDD223E3W3">
                    </a>
                     <a href="https://discord.com/invite/JVhKwNGmKF" target="_blank">
-                        <img src="https://api.weblutions.com/discord/invite/JVhKwNGmKF">
+                        <img width="350px" src="https://api.weblutions.com/discord/invite/JVhKwNGmKF">
                    </a>
                 </td>
             </tr>
