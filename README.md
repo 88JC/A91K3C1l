@@ -19,10 +19,10 @@
                     </a>
                   </p>
                     <a href="https://discord.com/invite/CDD223E3W3" target="_blank">
-                        <img src="https://badgen.net/discord/members/CDD223E3W3?style=for-the-badge">
+                        <img src="https://api.weblutions.com/discord/invite/CDD223E3W3">
                    </a>
                     <a href="https://discord.com/invite/JVhKwNGmKF" target="_blank">
-                        <img src="https://badgen.net/discord/members/JVhKwNGmKF?style=for-the-badge">
+                        <img src="https://api.weblutions.com/discord/invite/JVhKwNGmKF">
                    </a>
                 </td>
             </tr>
