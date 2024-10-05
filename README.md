@@ -53,7 +53,7 @@
                 <h1>Profile Stats<img src="https://github.com/jeckydo/jeckydo/blob/main/Assets/Developer.gif?raw=true" style="width: 40px; height: 40px;"></h1>
                 <td align="center" width="50%">
                     <a href="https://discord.com/users/169711695932030976" target="_blank">
-                        <img width="100%" src="https://lanyard.kyrie25.me/api/169711695932030976?decoration=true&useDisplayName=false&animationDuration=2s&waveColor=202225&imgStyle=square&imgBorderRadius=16px&bg=202225&idleMessage=Five+So+Be%C5%9F+So+Me" alt="Profile Image"/>
+                        <img width="100%" src="https://lanyard.kyrie25.me/api/169711695932030976?decoration=true&useDisplayName=false&animationDuration=2s&waveColor=202225&imgStyle=square&imgBorderRadius=16px&bg=202225" alt="Profile Image"/>
                     </a>
                     <a href="https://github.com/88JC" target="_blank">
                         <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=88JC&theme=dark&background=202225&border_color=202225&hide_border=true&stroke=202225" alt="GitHub Streak Stats"/>
